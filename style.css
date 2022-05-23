@@ -1,0 +1,30 @@
+body{
+    font-family: 'Rubik Moonrocks', cursive;
+    background-color: #fcf6bd;
+}   
+
+.header_div{
+    background-color:#df187f ;
+    color:#6e44ff;
+}
+
+.main_div button{
+    font-family: 'Babylonica', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    font-family: 'Rubik Puddles', cursive;
+    position: fixed;
+    color:#2d00f7 ;
+    bottom: 0px;
+    width: 100%;
+    font-size: 18px;
+    background-color: floralwhite;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px #2d00f7;
+}
